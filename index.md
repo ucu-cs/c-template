@@ -17,7 +17,7 @@
   - [Один розробник](#один-розробник)
   - [Команда розробників](#команда-розробників)
 - [Про шаблон](#про-шаблон)
-  - [README](#readme)
+  - [README.md](#readmemd)
   - [gitignore](#gitignore)
   - [CMakeLists.txt](#cmakeliststxt)
   - [requirements.txt](#requirementstxt)
@@ -59,7 +59,7 @@
 
 ### Про шаблон
 
-#### README
+#### README.md
 
 [README.md](https://github.com/chernetskyi/cpp-template/blob/master/README.md) є прикладом того, що від вас хоче бачити той, хто перевіряє. Допускаються README в довільному вигляді, проте на питання "як компілювати?", "як користуватись?", та "хто робив?" варто відповісти.
 
